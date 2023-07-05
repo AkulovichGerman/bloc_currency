@@ -1,6 +1,6 @@
 # bloc_example
 
-A new Flutter project.
+the BLoC library was used instead of streams 
 
 ## Getting Started
 
